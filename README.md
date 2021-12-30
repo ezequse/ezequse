@@ -1,4 +1,4 @@
-### Resumen rapido! 👋
+### Resumen rapido!
 
 
 **Actualmente me encuentro estudiando la Licenciatura en Producción de Videojuegos y Entretenimiento Digital, me gusta complementar dichos estudios con aprendizajes acerca de la programacion.
